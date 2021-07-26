@@ -1,0 +1,50 @@
+{
+    "name": "gitdark",
+    "displayName": "GitDark",
+    "publisher": "tontsa28",
+    "description": "Clean, dark VSCode theme in Github colours",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tontsa28/gitdark.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "GitDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/GitDark-color-theme.json"
+            }
+        ]
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "darktheme",
+        "dark-theme",
+        "dark theme",
+        "git dark",
+        "gitdark",
+        "dark",
+        "tontsa28",
+        "tontsa",
+        "theme"
+    ],
+    "author": "tontsa28",
+    "license": "GPL-v3.0",
+    "bugs": {
+        "url": "https://github.com/tontsa28/gitdark/issues"
+    },
+    "homepage": "https://github.com/tontsa28/gitdark#readme",
+    "activationEvents": [
+        "*"
+    ]
+}
