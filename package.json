@@ -3,7 +3,8 @@
     "displayName": "GitDark",
     "publisher": "tontsa28",
     "description": "Clean, dark VSCode theme in Github colours",
-    "version": "0.0.1",
+    "icon": "gitdark_logo_128x128.png",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.53.0"
     },
